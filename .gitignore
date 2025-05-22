@@ -1,0 +1,9 @@
+# Archivos de Terraform
+.terraform/
+*.tfstate*
+override.tf
+override.tf.json
+crash.log
+
+# Variables sensibles
+terraform.tfvars
